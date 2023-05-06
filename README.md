@@ -1,1 +1,1 @@
-# color3
+# color3 : colorizer user input
